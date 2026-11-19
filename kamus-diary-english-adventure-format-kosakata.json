@@ -1,0 +1,518 @@
+[
+  {
+    "en": "today",
+    "id": "hari ini"
+  },
+  {
+    "en": "yesterday",
+    "id": "kemarin"
+  },
+  {
+    "en": "tomorrow",
+    "id": "besok"
+  },
+  {
+    "en": "morning",
+    "id": "pagi"
+  },
+  {
+    "en": "afternoon",
+    "id": "siang / sore"
+  },
+  {
+    "en": "evening",
+    "id": "petang / malam"
+  },
+  {
+    "en": "night",
+    "id": "malam"
+  },
+  {
+    "en": "every day",
+    "id": "setiap hari"
+  },
+  {
+    "en": "sometimes",
+    "id": "kadang-kadang"
+  },
+  {
+    "en": "usually",
+    "id": "biasanya"
+  },
+  {
+    "en": "always",
+    "id": "selalu"
+  },
+  {
+    "en": "often",
+    "id": "sering"
+  },
+  {
+    "en": "rarely",
+    "id": "jarang"
+  },
+  {
+    "en": "never",
+    "id": "tidak pernah"
+  },
+  {
+    "en": "wake up",
+    "id": "bangun tidur"
+  },
+  {
+    "en": "get up",
+    "id": "bangun dari tempat tidur"
+  },
+  {
+    "en": "take a shower",
+    "id": "mandi"
+  },
+  {
+    "en": "brush my teeth",
+    "id": "menyikat gigi"
+  },
+  {
+    "en": "get dressed",
+    "id": "berpakaian"
+  },
+  {
+    "en": "have breakfast",
+    "id": "sarapan"
+  },
+  {
+    "en": "have lunch",
+    "id": "makan siang"
+  },
+  {
+    "en": "have dinner",
+    "id": "makan malam"
+  },
+  {
+    "en": "go to school",
+    "id": "pergi ke sekolah"
+  },
+  {
+    "en": "go home",
+    "id": "pulang"
+  },
+  {
+    "en": "do homework",
+    "id": "mengerjakan pekerjaan rumah"
+  },
+  {
+    "en": "study",
+    "id": "belajar"
+  },
+  {
+    "en": "read",
+    "id": "membaca"
+  },
+  {
+    "en": "write",
+    "id": "menulis"
+  },
+  {
+    "en": "learn",
+    "id": "mempelajari"
+  },
+  {
+    "en": "practice",
+    "id": "berlatih"
+  },
+  {
+    "en": "ask",
+    "id": "bertanya"
+  },
+  {
+    "en": "answer",
+    "id": "menjawab"
+  },
+  {
+    "en": "listen",
+    "id": "mendengarkan"
+  },
+  {
+    "en": "speak",
+    "id": "berbicara"
+  },
+  {
+    "en": "help",
+    "id": "membantu"
+  },
+  {
+    "en": "clean",
+    "id": "membersihkan"
+  },
+  {
+    "en": "cook",
+    "id": "memasak"
+  },
+  {
+    "en": "wash",
+    "id": "mencuci"
+  },
+  {
+    "en": "make",
+    "id": "membuat"
+  },
+  {
+    "en": "play",
+    "id": "bermain"
+  },
+  {
+    "en": "watch",
+    "id": "menonton"
+  },
+  {
+    "en": "listen to music",
+    "id": "mendengarkan musik"
+  },
+  {
+    "en": "draw",
+    "id": "menggambar"
+  },
+  {
+    "en": "sing",
+    "id": "bernyanyi"
+  },
+  {
+    "en": "dance",
+    "id": "menari"
+  },
+  {
+    "en": "walk",
+    "id": "berjalan"
+  },
+  {
+    "en": "run",
+    "id": "berlari"
+  },
+  {
+    "en": "visit",
+    "id": "mengunjungi"
+  },
+  {
+    "en": "meet",
+    "id": "bertemu"
+  },
+  {
+    "en": "travel",
+    "id": " bepergian"
+  },
+  {
+    "en": "buy",
+    "id": "membeli"
+  },
+  {
+    "en": "bring",
+    "id": "membawa"
+  },
+  {
+    "en": "take",
+    "id": "mengambil / membawa"
+  },
+  {
+    "en": "give",
+    "id": "memberi"
+  },
+  {
+    "en": "get",
+    "id": "mendapatkan"
+  },
+  {
+    "en": "feel",
+    "id": "merasa"
+  },
+  {
+    "en": "happy",
+    "id": "bahagia"
+  },
+  {
+    "en": "sad",
+    "id": "sedih"
+  },
+  {
+    "en": "excited",
+    "id": "bersemangat / sangat senang"
+  },
+  {
+    "en": "tired",
+    "id": "lelah"
+  },
+  {
+    "en": "sleepy",
+    "id": "mengantuk"
+  },
+  {
+    "en": "angry",
+    "id": "marah"
+  },
+  {
+    "en": "afraid",
+    "id": "takut"
+  },
+  {
+    "en": "worried",
+    "id": "khawatir"
+  },
+  {
+    "en": "proud",
+    "id": "bangga"
+  },
+  {
+    "en": "surprised",
+    "id": "terkejut"
+  },
+  {
+    "en": "bored",
+    "id": "bosan"
+  },
+  {
+    "en": "hungry",
+    "id": "lapar"
+  },
+  {
+    "en": "thirsty",
+    "id": "haus"
+  },
+  {
+    "en": "beautiful",
+    "id": "indah / cantik"
+  },
+  {
+    "en": "fun",
+    "id": "menyenangkan"
+  },
+  {
+    "en": "interesting",
+    "id": "menarik"
+  },
+  {
+    "en": "difficult",
+    "id": "sulit"
+  },
+  {
+    "en": "easy",
+    "id": "mudah"
+  },
+  {
+    "en": "delicious",
+    "id": "lezat"
+  },
+  {
+    "en": "great",
+    "id": "hebat"
+  },
+  {
+    "en": "busy",
+    "id": "sibuk"
+  },
+  {
+    "en": "quiet",
+    "id": "tenang"
+  },
+  {
+    "en": "friendly",
+    "id": "ramah"
+  },
+  {
+    "en": "school",
+    "id": "sekolah"
+  },
+  {
+    "en": "classroom",
+    "id": "ruang kelas"
+  },
+  {
+    "en": "library",
+    "id": "perpustakaan"
+  },
+  {
+    "en": "playground",
+    "id": "taman bermain"
+  },
+  {
+    "en": "park",
+    "id": "taman"
+  },
+  {
+    "en": "beach",
+    "id": "pantai"
+  },
+  {
+    "en": "home",
+    "id": "rumah"
+  },
+  {
+    "en": "bedroom",
+    "id": "kamar tidur"
+  },
+  {
+    "en": "garden",
+    "id": "kebun / taman"
+  },
+  {
+    "en": "family",
+    "id": "keluarga"
+  },
+  {
+    "en": "mother",
+    "id": "ibu"
+  },
+  {
+    "en": "father",
+    "id": "ayah"
+  },
+  {
+    "en": "parents",
+    "id": "orang tua"
+  },
+  {
+    "en": "brother",
+    "id": "saudara laki-laki"
+  },
+  {
+    "en": "sister",
+    "id": "saudara perempuan"
+  },
+  {
+    "en": "friend",
+    "id": "teman"
+  },
+  {
+    "en": "teacher",
+    "id": "guru"
+  },
+  {
+    "en": "classmate",
+    "id": "teman sekelas"
+  },
+  {
+    "en": "grandmother",
+    "id": "nenek"
+  },
+  {
+    "en": "grandfather",
+    "id": "kakek"
+  },
+  {
+    "en": "birthday",
+    "id": "ulang tahun"
+  },
+  {
+    "en": "holiday",
+    "id": "liburan"
+  },
+  {
+    "en": "weekend",
+    "id": "akhir pekan"
+  },
+  {
+    "en": "party",
+    "id": "pesta"
+  },
+  {
+    "en": "rain",
+    "id": "hujan"
+  },
+  {
+    "en": "sunny",
+    "id": "cerah"
+  },
+  {
+    "en": "cloudy",
+    "id": "berawan"
+  },
+  {
+    "en": "windy",
+    "id": "berangin"
+  },
+  {
+    "en": "favorite",
+    "id": "favorit / kesukaan"
+  },
+  {
+    "en": "because",
+    "id": "karena"
+  },
+  {
+    "en": "but",
+    "id": "tetapi"
+  },
+  {
+    "en": "and",
+    "id": "dan"
+  },
+  {
+    "en": "then",
+    "id": "kemudian"
+  },
+  {
+    "en": "after that",
+    "id": "setelah itu"
+  },
+  {
+    "en": "before",
+    "id": "sebelum"
+  },
+  {
+    "en": "after",
+    "id": "sesudah / setelah"
+  },
+  {
+    "en": "first",
+    "id": "pertama"
+  },
+  {
+    "en": "finally",
+    "id": "akhirnya"
+  },
+  {
+    "en": "remember",
+    "id": "mengingat"
+  },
+  {
+    "en": "forget",
+    "id": "melupakan"
+  },
+  {
+    "en": "hope",
+    "id": "berharap"
+  },
+  {
+    "en": "wish",
+    "id": "berharap"
+  },
+  {
+    "en": "enjoy",
+    "id": "menikmati"
+  },
+  {
+    "en": "learned",
+    "id": "telah belajar"
+  },
+  {
+    "en": "favorite memory",
+    "id": "kenangan favorit"
+  },
+  {
+    "en": "a lot of",
+    "id": "banyak"
+  },
+  {
+    "en": "a little",
+    "id": "sedikit"
+  },
+  {
+    "en": "on time",
+    "id": "tepat waktu"
+  },
+  {
+    "en": "all day",
+    "id": "sepanjang hari"
+  },
+  {
+    "en": "at last",
+    "id": "akhirnya"
+  }
+]
